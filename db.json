@@ -1,0 +1,47 @@
+{
+    "movies": [
+      {
+        "id": 1,
+        "title": "The Shawshank Redemption",
+        "year": 1994,
+        "poster": "https://i.etsystatic.com/16821137/r/il/c8b3e3/1879586236/il_570xN.1879586236_kdtm.jpg",
+        "rating": 9.3
+      },
+      {
+        "id": 2,
+        "title": "Bagban",
+        "year": 2003,
+        "poster": "https://m.media-amazon.com/images/M/MV5BMTM2ODY0NDkxMF5BMl5BanBnXkFtZTcwNTc0NTQyMQ@@._V1_.jpg",
+        "rating": 9.2
+      },
+      {
+        "id": 3,
+        "title": "The Dark Knight",
+        "year": 2008,
+        "poster": "https://rukminim2.flixcart.com/image/850/1000/k8xduvk0/poster/j/m/z/medium-the-dark-knight-poster-decorative-wall-poster-wall-d-cor-original-imafqu8euacqngyh.jpeg?q=90&crop=false",
+        "rating": 9.0
+      },
+      {
+        "id": 4,
+        "title": "3 Idiots",
+        "year": 2009,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_AEEJuV3zP8T4ZvJlD0yBb4zLE6etawn53Q&s",
+        "rating": 8.9
+      },
+      {
+        "id": 5,
+        "title": "The Kashmir files",
+        "year": 2022,
+        "poster": "https://i.ytimg.com/vi/A179apttY58/maxresdefault.jpg",
+        "rating": 8.8
+      },
+      {
+        "id": 6,
+        "title": "Tare zameen par",
+        "year": 2022,
+        "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qcgT2ODCYx-tIo0IJPJjFG0nY5E6I87PxA&s",
+        "rating": 8.8
+      }
+    ]
+  }
+  
