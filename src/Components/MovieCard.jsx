@@ -2,7 +2,11 @@ import React from "react";
 
 const MovieCard = ({ movie }) => {
   return (
-    <div className="col-md-4 col-sm-6 mb-4">
+    
+<>
+
+<div className="col-md-4 col-sm-6 mb-4">
+      
       <div className="card">
         <img
           src={movie.poster || "https://www.movieposterdb.com/the-dark-knight-i468569"} 
@@ -16,6 +20,8 @@ const MovieCard = ({ movie }) => {
         </div>
       </div>
     </div>
+</>
+  
   );
 };
 
